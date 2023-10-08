@@ -1,0 +1,19 @@
+{
+    "name": "kkirillmk/sitemap-generator",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Kkirillmk\\SitemapGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kirill Morozov",
+            "email": "kirillmk_kmk@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.1"
+    }
+}
