@@ -1,5 +1,6 @@
 {
     "name": "kkirillmk/sitemap-generator",
+    "description": "Sitemap generator",
     "type": "library",
     "autoload": {
         "psr-4": {
@@ -15,5 +16,6 @@
     "minimum-stability": "stable",
     "require": {
         "php": "^8.1"
-    }
+    },
+    "license": "mit"
 }
